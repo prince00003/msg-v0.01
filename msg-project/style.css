@@ -1,0 +1,29 @@
+.msgdiv {
+    padding: 5px;
+    background: #28bb9e;
+    margin: 5px;
+    width: fit-content;
+}
+
+.btn {
+    padding: 5px;
+    background: #3287c7;
+    border-radius: 6px;
+    color: white;
+}
+
+.input {
+    padding: 6px;
+    margin-right: 15px;
+    border-radius: 5px;
+    background: #d2c8c8;
+    color: crimson;
+}
+
+.box {
+    border: 14px groove #c28c8c;
+    /* height: 500px; */
+    margin: 12px;
+    background-color: #9ce49c;
+    overflow: auto;
+}
